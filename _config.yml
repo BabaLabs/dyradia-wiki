@@ -1,0 +1,22 @@
+title: "Dyradia Codex"
+description: "A player-facing codex for the world of Dyradia."
+remote_theme: just-the-docs/just-the-docs
+
+# URL will get filled in by GitHub Pages automatically, but you can set it explicitly too:
+# url: "https://lore.yourdomain.com"
+
+color_scheme: dark   # built-in dark mode
+
+# Navigation settings
+nav_external_links:
+  - title: "Return to Game Discord"
+    url: "https://discord.gg/your-server"   # optional, if you want a link back
+
+# Aux navigation (top right)
+aux_links:
+  "View on GitHub":
+    - "https://github.com/YOURUSERNAME/dyradia-wiki"
+
+# Just the Docs specifics
+search_enabled: true
+logo: # optional if you add one later
