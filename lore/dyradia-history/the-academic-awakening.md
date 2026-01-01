@@ -43,7 +43,7 @@ While magic played a role, the Awakening was **not** primarily a magical revolut
 
 ---
 
-### **Tier 0 — Common Knowledge**
+### **Common Knowledge**
 
 _(No roll required)_
 
@@ -58,74 +58,10 @@ Most people believe:
 - It ended when the wars began
     
 - Most of that knowledge was lost
-    
 
 This version is nostalgic, vague, and largely uncritical.
 
----
-
-### **Tier 1 — Familiar History**
-
-_(Low DC History, Educated Background)_
-
-> _“The Academic Awakening was a continent-wide intellectual movement sparked by Bohrova’s teachings, leading to advancements in science, mathematics, medicine, and the arts.”_
-
-At this level, it is known that:
-
-- Schools and academies spread rapidly
-    
-- Knowledge was shared across kingdoms
-    
-- Magic and mundane disciplines overlapped
-    
-- The Church of Prim viewed the movement with suspicion
-    
-
-Students are often taught that the Awakening “moved too fast” and destabilized society.
-
----
-
-### **Tier 2 — Archival / Scholarly Record**
-
-_(Moderate–High DC History, Academic Access)_
-
-> _“Primary sources indicate the Awakening was less a spontaneous movement and more a coordinated dissemination of methodologies introduced by Bohrova and his contemporaries.”_
-
-Archival records show:
-
-- Bohrova introduced **new frameworks for thought**, not just facts
-    
-- Mathematics incorporated non-linear and abstract principles
-    
-- Architectural designs mirrored Interstitial flow dynamics
-    
-- Medical practices emphasized observation and experimentation
-    
-
-Key insight:
-
-> The Awakening taught people **how to think**, not merely what to know.
-
-Scholars note that this shift fundamentally altered governance, warfare, and economics.
-
----
-
-### **Tier 3 — Obscure / Suppressed Knowledge**
-
-_(High DC, Feythran Oral Record, Dwarven Archives)_
-
-> _“Elven accounts suggest the Awakening arose from mortal exposure to non-mortal cognition — a way of perceiving pattern and causality not native to Dyradian minds.”_
-
-Deep records imply:
-
-- Bohrova taught concepts derived from Dyra perception
-    
-- Certain mathematical axioms do not describe reality — they **approximate** it
-    
-- Early Awakening scholars reported altered dreams and perception
-    
-- Some disciplines were deliberately abandoned after the Fracture
-    
+--- 
 
 Most troubling:
 
@@ -133,7 +69,6 @@ Most troubling:
     
 - This suggests the Awakening was built on assumptions that are now invalid
     
-
 A minority of scholars believe:
 
 > The instability of modern magic is eroding the _intellectual scaffolding_ left behind by the Awakening.
@@ -236,13 +171,3 @@ _(Unverified)_
     
 
 ---
-
-## **Cross-References**
-
-- Bohrova
-    
-- The Interstice
-    
-- The Fracture
-    
-- The Dyra
