@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Dyradia Codex
+title: The Dyradia Codex
 nav_order: 1
 ---
 
 # Dyradia Codex
 
-Welcome, wanderer.
+Hello, friends!
 
 This site is a **player-facing codex** for the world of Dyradia.  
 Here you'll find information your characters *could reasonably know* or discover in play:
@@ -22,9 +22,4 @@ Here you'll find information your characters *could reasonably know* or discover
 
 ---
 
-## Where to start
-
-- 👉 [World Overview](./lore/world-overview.md)
-- 👉 [Regions & Cities](./lore/regions.md)
-- 👉 [Races & Cultures](./lore/races-and-cultures.md)
-- 👉 [Timeline of Known Events](./lore/timeline.md)
+## **This will be updated as time goes on, so check back regularly <3**
