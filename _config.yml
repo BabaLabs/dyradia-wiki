@@ -8,9 +8,9 @@ remote_theme: just-the-docs/just-the-docs
 color_scheme: dark   # built-in dark mode
 
 # Navigation settings
-nav_external_links:
-  - title: "Return to Game Discord"
-    url: "https://discord.gg/your-server"   # optional, if you want a link back
+#nav_external_links:
+  #- title: "Return to Game Discord"
+    #url: ""   # optional, if you want a link back
 
 # Aux navigation (top right)
 aux_links:
