@@ -211,35 +211,8 @@ A few suspect it is **unraveling**.
 
 _(Detailed entry, as an example of depth going forward)_
 
-### **Tier 0 — Common Knowledge**
+### **Common Knowledge**
 
 > _“After the war, things settled down.”_
 
 ---
-
-### **Tier 1 — Familiar History**
-
-> _“Laws were passed, magic was regulated, and society rebuilt.”_
-
----
-
-### **Tier 2 — Archival Record**
-
-> _“The Age of Stabilization prioritized predictability over understanding.”_
-
-Details include:
-
-- Deliberate suppression of advanced theory
-    
-- Institutional fear of innovation
-    
-- Overreliance on weakened magical frameworks
-    
-
----
-
-### **Tier 3 — Obscure Knowledge**
-
-> _“Stabilization was achieved by narrowing the world’s tolerance for complexity.”_
-
-Some believe this is why modern magic feels brittle.
