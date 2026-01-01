@@ -45,11 +45,11 @@ The era culminated in widespread devastation, including the destruction of a dis
 
 ---
 
-## **Tiered Knowledge Accounts**
+## **Knowledge Accounts**
 
 ---
 
-### **Tier 0 — Common Knowledge**
+### **Common Knowledge**
 
 _(No roll required)_
 
@@ -64,9 +64,6 @@ Most people believe:
 - The destruction proved magic was too dangerous
     
 - The past should remain buried
-    
-
-This version is emotionally simple and culturally reinforced.
 
 ---
 
@@ -85,106 +82,8 @@ At this level, it is known that:
 - Several high-ranking Church leaders were killed
     
 - The Awoken became symbols of fear
-    
 
 Most texts emphasize **chaos**, not culpability.
-
----
-
-### **Tier 2 — Archival / Scholarly Record**
-
-_(Moderate–High DC History, Institutional Access)_
-
-> _“Primary records indicate the Church of Prim deliberately provoked crisis conditions to justify consolidation of power, including the use of blood-binding magic and false-flag operations.”_
-
-Archival consensus (where it exists) includes:
-
-- The exposure of a hidden royal heir was orchestrated
-    
-- The Church manipulated legitimacy rituals
-    
-- Armed conflict was accelerated intentionally
-    
-- Opposition forces were fragmented but coordinated
-    
-
-Confirmed outcomes:
-
-- All known high-ranking Church authorities were slain during the conflict
-    
-- The Cardinal alone evaded capture
-    
-- Losses among rebel forces were severe and underreported
-    
-
-This tier establishes **intent**, not just consequence.
-
----
-
-### **Tier 3 — Suppressed / Contested Knowledge**
-
-_(High DC, Restricted Archives, Feythran or Gohlstout Sources)_
-
-> _“Several sealed accounts describe the Fracture as a failure of containment rather than ideology — a moment when the world’s deeper structures could no longer bear the strain imposed upon them.”_
-
-Deep records reveal:
-
-- The destruction in Mehrendt coincided with planar destabilization
-    
-- The Awoken involved exhibited awareness of impending failure
-    
-- The Interstice destabilized simultaneously across multiple nodes
-    
-- Magical behavior changed _globally_, not locally
-    
-
-This reframes the Fracture as:
-
-> A metaphysical rupture triggered by human action.
-
----
-
-### **Tier 4 — **Hidden Knowledge** (Extremely Rare)**
-
-_(Access requires extraordinary means, trust, or non-human testimony)_
-
-> _“One figure stands absent from official histories — mentioned only as a traitor, butcher, or architect of atrocity. This absence is deliberate.”_
-
-Fragmentary records suggest:
-
-- **Maeleus** was embedded within enemy ranks for years
-    
-- His actions were instrumental in dismantling the Church’s inner structure
-    
-- He knowingly accepted irreversible damnation of his name
-    
-- His survival was never part of the plan
-    
-
-Most critically:
-
-> The collapse of the Church’s hierarchy could not have occurred without him.
-
-Those who knew the truth:
-
-- Spoke of him only in whispers
-    
-- Took oaths of silence
-    
-- Allowed history to condemn him
-    
-
-Over time:
-
-- Most witnesses died
-    
-- Records were sealed or destroyed
-    
-- Reverence faded into myth, then absence
-    
-
-To the world, Maeleus is a monster.  
-To the few who remember, he is a **necessary sacrifice**.
 
 ---
 
@@ -197,7 +96,6 @@ It is historically verified that:
 - All other senior Church authorities perished
     
 - Many died at the hands of a unified rebel force
-    
 
 The exact circumstances of their deaths vary by source.
 
@@ -257,15 +155,5 @@ _(Unverified)_
     
 
 ---
-
-## **Cross-References**
-
-- Bohrova
-    
-- The Dyra
-    
-- The Interstice
-    
-- The Awoken
     
 - The Church of Prim
