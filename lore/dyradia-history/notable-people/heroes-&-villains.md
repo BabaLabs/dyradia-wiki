@@ -1,3 +1,11 @@
+---
+layout: default
+title: Heroes & Villains
+parent: Notable People (Historical)
+nav_order: 2
+---
+
+
 # 📜 **Ezericht La’Monte**
 
 _The Unwilling Heir_
