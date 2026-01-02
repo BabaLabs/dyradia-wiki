@@ -1,3 +1,10 @@
+---
+layout: default
+title: Dyradia Overview
+nav_order: 1
+has_children: true
+---
+
 As Recorded in the Third Century After the Fracture, year 39...
 
 The world of **Dyradia** is old; older than most care to remember, and older still than most stories dare to admit. It is a land shaped not only by kings and wars, but by belief, defiance, and the slow, uneasy relationship between mortals and power.
