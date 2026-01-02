@@ -1,3 +1,11 @@
+---
+layout: default
+title: World Leaders
+parent: Notable People (Historical)
+nav_order: 3
+---
+
+
 # 📜 **King Alaric La’Monte**
 
 _The Silent Crown_  
