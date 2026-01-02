@@ -1,3 +1,11 @@
+---
+layout: default
+title: Archmage Velisar
+parent: Notable People (Historical)
+nav_order: 1
+---
+
+
 # 📜 **Bohrova**
 
 _The Sage of the Interstice_  
