@@ -1,3 +1,9 @@
+---
+title: Lore
+parent: Notable Places & Events
+---
+
+
 # 📜 **Historical Eras of Dyradia**
 
 _Standard Scholarly Chronology_
