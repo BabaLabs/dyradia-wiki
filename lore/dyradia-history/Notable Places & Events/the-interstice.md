@@ -1,3 +1,8 @@
+---
+title: The Interstice
+parent: Notable Places & Events
+---
+
 # 📜 **The Interstice**
 
 _Also known as: The Veiled Way, The Between, The Dyric Span_
