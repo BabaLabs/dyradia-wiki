@@ -1,5 +1,6 @@
 ---
 title: Lore
+parent: lore
 has_children: true
 ---
 
