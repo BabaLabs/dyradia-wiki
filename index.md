@@ -2,6 +2,7 @@
 title: Lore
 parent: lore
 has_children: true
+nav_order: 1
 ---
 
 
