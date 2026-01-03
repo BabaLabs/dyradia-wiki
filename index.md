@@ -1,8 +1,8 @@
 ---
-layout: default
-title: The Dyradia Codex
-nav_order: 1
+title: Lore
+has_children: true
 ---
+
 
 # Dyradia Codex
 
