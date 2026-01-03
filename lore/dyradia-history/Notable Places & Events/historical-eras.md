@@ -1,5 +1,5 @@
 ---
-title: Lore
+title: Historical Eras
 parent: Notable Places & Events
 ---
 
