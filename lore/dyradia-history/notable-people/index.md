@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Notable People (Historical)
-parent: History
-nav_order: 1
+parent: dyradia-history
 has_children: true
 ---
 # Notable Historical Figures
