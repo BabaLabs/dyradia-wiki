@@ -1,3 +1,8 @@
+---
+title: The Fracture
+parent: Notable Places & Events
+---
+
 # 📜 **The Fracture**
 
 _Also known as: The Purification, The Sundering, The Great Loss
