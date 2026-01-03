@@ -1,3 +1,8 @@
+---
+title: The Academic Awakening
+parent: Notable Places & Events
+---
+
 # 📜 **The Academic Awakening**
 
 _Also known as: The Awakening, The Age of Measure, The First Enlightenment_
