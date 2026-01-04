@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The World Today
-parent: Lore
+parent: lore
 has_children: true
 ---
 # The World Today
