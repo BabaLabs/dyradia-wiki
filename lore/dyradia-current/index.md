@@ -1,8 +1,10 @@
 ---
 layout: default
-title: The World Today
-parent: dyradia-current
+title: Dyradia Current
+parent: Lore
+nav_order: 1
 has_children: true
 ---
+
 # The World Today
 Current political powers, locations, and figures.
