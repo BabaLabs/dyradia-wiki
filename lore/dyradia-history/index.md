@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Notable Places & Events (Historical)
-parent: Dyradia History
+title: Dyradia History
+parent: Lore
 nav_order: 2
 has_children: true
 ---
