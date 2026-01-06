@@ -1,6 +1,8 @@
 ---
+layout: default
 title: The Academic Awakening
-parent: Notable Places & Events
+parent: Notable Places & Events (Historical)
+nav_order: 4
 ---
 
 # 📜 **The Academic Awakening**
