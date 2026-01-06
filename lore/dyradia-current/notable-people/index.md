@@ -1,5 +1,8 @@
 ---
+layout: default
 title: Notable People
-parent: notable-people
+parent: Dyradia Current
+nav_order: 1
 has_children: true
 ---
+
