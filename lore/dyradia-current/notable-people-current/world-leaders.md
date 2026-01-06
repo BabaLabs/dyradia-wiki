@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Someone Important
+title: World Leaders
 parent: Notable People
 nav_order: 1
 ---
