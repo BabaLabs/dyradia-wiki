@@ -2,7 +2,7 @@
 layout: default
 title: Dyradia Overview
 parent: lore
-nav_order: 2
+nav_order: 1
 ---
 
 As Recorded in the Third Century After the Fracture, year 39...
