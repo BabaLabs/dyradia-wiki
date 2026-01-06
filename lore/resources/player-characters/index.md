@@ -1,6 +1,7 @@
 ---
+layout: default
 title: Player Characters
-parent: resources
+parent: Resources
+nav_order: 1
 has_children: true
 ---
-
