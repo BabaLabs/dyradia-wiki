@@ -1,5 +1,5 @@
 ---
 title: Notable People
-parent: dyradia-current
+parent: notable-people
 has_children: true
 ---
