@@ -1,6 +1,8 @@
 ---
+layout: default
 title: Historical Eras
-parent: Notable Places & Events
+parent: Notable Places & Events (Historical)
+nav_order: 1
 ---
 
 
