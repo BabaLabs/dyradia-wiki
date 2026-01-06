@@ -1,7 +1,10 @@
 ---
+layout: default
 title: The Fracture
-parent: Notable Places & Events
+parent: Notable Places & Events (Historical)
+nav_order: 2
 ---
+
 
 # 📜 **The Fracture**
 
