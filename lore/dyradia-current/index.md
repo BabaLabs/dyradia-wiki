@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The World Today
-parent: lore
+parent: dyradia-current
 has_children: true
 ---
 # The World Today
