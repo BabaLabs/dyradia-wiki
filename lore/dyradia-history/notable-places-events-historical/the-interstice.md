@@ -1,6 +1,8 @@
 ---
+layout: default
 title: The Interstice
-parent: Notable Places & Events
+parent: Notable Places & Events (Historical)
+nav_order: 3
 ---
 
 # 📜 **The Interstice**
