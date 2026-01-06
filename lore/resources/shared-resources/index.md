@@ -1,6 +1,8 @@
 ---
+layout: default
 title: Shared Resources
-parent: resources
+parent: Resources
+nav_order: 3
 has_children: true
 ---
 
