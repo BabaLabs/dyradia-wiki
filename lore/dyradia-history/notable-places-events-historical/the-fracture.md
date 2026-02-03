@@ -59,8 +59,6 @@ The era culminated in widespread devastation, including the destruction of a dis
 
 ### **Common Knowledge**
 
-_(No roll required)_
-
 > _“The Fracture was the war that ended the age of reckless magic. The Church fell, the Awoken vanished, and the world survived — barely.”_
 
 Most people believe:
@@ -72,26 +70,6 @@ Most people believe:
 - The destruction proved magic was too dangerous
     
 - The past should remain buried
-
----
-
-### **Tier 1 — Familiar History**
-
-_(Low DC History, Soldier, Cleric, or Educated Background)_
-
-> _“The Fracture was a prolonged conflict between the Church of Prim and various factions opposing its authority, culminating in internal collapse and magical catastrophe.”_
-
-At this level, it is known that:
-
-- The Church attempted to control magic through force
-    
-- Rebel forces formed across Dyradia
-    
-- Several high-ranking Church leaders were killed
-    
-- The Awoken became symbols of fear
-
-Most texts emphasize **chaos**, not culpability.
 
 ---
 
@@ -145,7 +123,7 @@ Few wish to reopen its wounds.
 
 Fewer still are prepared to accept that:
 
-> The world did not heal — it adapted.
+> The world did not heal; it adapted.
 
 ---
 
@@ -163,5 +141,3 @@ _(Unverified)_
     
 
 ---
-    
-- The Church of Prim
