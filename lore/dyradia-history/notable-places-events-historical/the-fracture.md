@@ -8,7 +8,7 @@ nav_order: 2
 
 # 📜 **The Fracture**
 
-_Also known as: The Purification, The Sundering, The Great Loss
+_Also known as: The Purification, The Sundering, The Great Loss_
 
 ---
 
