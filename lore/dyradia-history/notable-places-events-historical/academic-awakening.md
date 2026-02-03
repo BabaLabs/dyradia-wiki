@@ -54,7 +54,7 @@ While magic played a role, the Awakening was **not** primarily a magical revolut
 
 _(No roll required)_
 
-> _“That was the age when people learned how to build things properly. Roads, bridges, cities — before that, everything was guesswork.”_
+> _“That was the age when people learned how to build things properly. Roads, bridges, cities; before that, everything was guesswork.”_
 
 Most people believe:
 
@@ -174,7 +174,7 @@ _(Unverified)_
     
 - Some Awakening texts “update themselves” when magic surges
     
-- A few scholars believe the Awakening never truly ended — it was interrupted
+- A few scholars believe the Awakening never truly ended; it was interrupted
     
 
 ---
