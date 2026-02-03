@@ -18,7 +18,7 @@ Modern historians divide recorded Dyradian history into several broadly accepted
 
 _(Pre-History)_
 
-> _“Before kingdoms, before law — when the world was still being negotiated.”_
+> _“Before kingdoms, before law; when the world was still being negotiated.”_
 
 ### **Overview**
 
@@ -80,7 +80,7 @@ This era marks the rise of permanent settlements, early kingdoms, and proto-reli
 
 _(Late Pre-Fracture)_
 
-> _“The world learned how it worked — and mistook that for control.”_
+> _“The world learned how it worked; and mistook that for control.”_
 
 ### **Overview**
 
@@ -99,7 +99,7 @@ Defined by the life and influence of **Bohrova**, this era saw the emergence of 
 
 ### **Scholarly Consensus**
 
-This was not a golden age — it was an **acceleration**.
+This was not a golden age; it was an **acceleration**.
 
 ---
 
@@ -134,7 +134,7 @@ Whether the Church arose _in response_ to chaos or _to create it_ remains contes
 
 _(Era of Collapse)_
 
-> _“Everything broke — just not all at once.”_
+> _“Everything broke; just not all at once.”_
 
 ### **Overview**
 
