@@ -105,7 +105,7 @@ Ometrieysa was the Church’s foremost scholar during the latter years of the Fr
 
 ---
 
-### **Tier 0 — Common Knowledge**
+### **Common Knowledge**
 
 > _“Ometrieysa was the mind behind the Church’s cruelty.”_
 
