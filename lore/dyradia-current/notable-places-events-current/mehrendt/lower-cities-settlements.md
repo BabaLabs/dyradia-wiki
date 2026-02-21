@@ -112,7 +112,7 @@ _(alt names: **Westmarch Bastion**)_
 
 ### Overview
 
-Officially, Fort Glasswake is a training installation: disciplined troops, clean formations, and endless drills. Unofficially, it watches the sea and the southern routes—especially anything coming to and from the Church island.
+Officially, Fort Glasswake is a training installation: disciplined troops, clean formations, and endless drills. Unofficially, it watches the sea and the southern routes, especially anything coming to and from the Church island.
 
 ### Governance & Faces
 
@@ -135,7 +135,7 @@ Officially, Fort Glasswake is a training installation: disciplined troops, clean
 
 ### **The Pale Seat**
 
-_(alt names: **Vesperhold**_
+_(alt names: **Vesperhold**)_
 
 **Nation:** Church-aligned territory (not formally a nation)  
 **Type:** Fortress-Island / Religious Hub  
