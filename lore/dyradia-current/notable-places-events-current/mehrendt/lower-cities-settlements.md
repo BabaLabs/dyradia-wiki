@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lower Citites and Settlements
-parent: mehrendt
+parent: Mehrendt
 nav_order: 2
 ---
 
