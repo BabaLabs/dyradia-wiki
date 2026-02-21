@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lower Citites and Settlements
-parent: Mehrendt
+parent: Notable Places & Events
 nav_order: 2
 ---
 
