@@ -1,3 +1,33 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+.search-container {
+  background: var(--light) !important;
+  backdrop-filter: none !important;
+}
+.search-container .result-card {
+  background: var(--lightgray);
+  color: var(--dark);
+  border-bottom: 1px solid var(--gray);
+}
+.search-container .result-card * {
+  color: var(--dark) !important;
+}
+.search-container .result-card .highlight {
+  background: var(--tertiary);
+}
+
+article table {
+  width: 100%;
+  table-layout: auto;
+  font-size: 0.9rem;
+}
+article table td,
+article table th {
+  padding: 0.4rem 0.7rem;
+  vertical-align: top;
+}
+article table td:first-child {
+  white-space: nowrap;
+  width: 1%;
+}
