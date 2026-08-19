@@ -1,5 +1,6 @@
 ---
 title: Dyradia
+description: Twenty years of worldbuilding, finally in one place. Four nations, an age of magic that ended badly, and everything that came after.
 ---
 
 Welcome to Dyradia.
